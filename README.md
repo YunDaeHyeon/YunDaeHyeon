@@ -1,6 +1,6 @@
 <h3><div align="center">👨‍💻 주니어 개발자를 꿈꾸는 평범한 학생</div></h3>  
 <table alien = "center ><tr><td valign="top" width="33%">
-<div align = "center"> <h2>🛠️지금까지 배운 기술🛠️</h2>
+<div align = "center"> <h2>지금까지 배운 것들</h2>
 <div align="center">
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="40" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="40" />  
@@ -20,8 +20,7 @@
 <!-- </td><td valign="top" width="33%">
 </td><td valign="top" width="33%"> -->
 </td></tr></table>  
-<div align = "center"> <h2>🍁ME🍁</h2>
-<div align="center">
+<div align="center">  
 <a href="https://github.com/YunDaeHyeon" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
