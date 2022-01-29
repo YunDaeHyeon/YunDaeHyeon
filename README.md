@@ -1,5 +1,4 @@
-<h3><div align="center">👨‍💻 주니어 개발자를 꿈꾸는 평범한 학생</div></h3>.   
-
+<h3><div align="center">👨‍💻 주니어 개발자를 꿈꾸는 평범한 학생</div></h3>  
 <table alien = "center ><tr><td valign="top" width="33%">
 <div align = "center"> <h2>🛠️Tech Stack🛠️</h2>
 <p>Techs that I've used at least once<p>
