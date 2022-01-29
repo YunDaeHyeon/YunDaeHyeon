@@ -1,9 +1,4 @@
-<div align="center"><h2>👋Hi there!</h2></div>   
-<div align="center">👨‍💻 I am a junior developer who studies development and planning.</div>  
-<div align="center">🏫 I’m currently attending WKU</div>  
-<div align="center">✏️I’m currently learning Android and Java</div>  
-<div align="center">😀I'm not good enough, but I look forward to your kind cooperation.</div>  
-<br/>  
+<div align="center"><h3👨‍💻 주니어 개발자를 꿈꾸는 평범한 학생</h3></div>    
 
 <table alien = "center ><tr><td valign="top" width="33%">
 <div align = "center"> <h2>🛠️Tech Stack🛠️</h2>
