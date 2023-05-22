@@ -4,15 +4,15 @@
 </td><td valign="top" width="33%"> -->
 </td></tr></table>  
 <div align="center">                                                                                       
-### ✔️Frond-end  
+<h4>✔️Frond-end</h4>
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black"><img src="https://img.shields.io/badge/Css-1572B6?style=for-the-badge&logo=Css&logoColor=white"><img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=purple">  
-### ✔️Back-end  
+<h4>✔️Back-end</h4>
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=yellow"><img src="https://img.shields.io/badge/Nood Js-339933?style=for-the-badge&logo=Node.Js&logoColor=green"><img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=Express&logoColor=whtie">  
-### ✔️Mobile  
+<h4>✔️Mobile</h4>
 <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=green">  
-### ✔️Deploy
+<h4>✔️Deploy</h4>
 <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=Heroku&logoColor=whtie"><img src="https://img.shields.io/badge/Amazon Ec2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=black">  
-### ✔️Etc...  
+<h4>✔️Etc...</h4>
 <img src="https://img.shields.io/badge/R Studio-276DC3?style=for-the-badge&logo=R&logoColor=whtie"><img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=whtie"><img src="https://img.shields.io/badge/Mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=whtie">        
 </div>
 
