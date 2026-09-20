@@ -27,31 +27,33 @@
 
 ## Stacks
 
-**Swift**  
-![SwiftUI](https://img.shields.io/badge/SwiftUI-0D96F6?style=flat-square&logo=swift&logoColor=white)
-![UIKit](https://img.shields.io/badge/UIKit-2396F3?style=flat-square&logo=swift&logoColor=white)
-![Swift Concurrency](https://img.shields.io/badge/Swift_Concurrency-007AFF?style=flat-square&logo=swift&logoColor=white)
+**Programming Language**  
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-**Architecture**  
-![MVI](https://img.shields.io/badge/MVI-1D1D1F?style=flat-square)
-![MVVM](https://img.shields.io/badge/MVVM-1D1D1F?style=flat-square)
-![MVC](https://img.shields.io/badge/MVC-1D1D1F?style=flat-square)
-![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-1D1D1F?style=flat-square)
+**Framework / Library**  
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
 
-**CI/CD**  
+**Server & Database**  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white)
+
+**협업 Tool & DevOps**  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Fastlane](https://img.shields.io/badge/Fastlane-00F200?style=flat-square&logo=fastlane&logoColor=black)
 
-**Server · Infra**  
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white)
-
-**자동화**  
+**AI & Automation**  
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
 
 ## About
 
+- 원광대학교 컴퓨터소프트웨어공학과 졸업 (2020.03 – 2026.02)
 - 네이버 부스트캠프 웹·모바일 10기 iOS 수료 (2025.06 – 2026.02)
 - KB국민은행 KB-Bridge AI 활용 데이터 분석 과정 (2026.08 – 진행중)
+- 공학교육원 캡스톤디자인 경진대회 대상 (2024)
